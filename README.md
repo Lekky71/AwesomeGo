@@ -1,0 +1,2 @@
+# AwesomeGo
+Checking out GoLang
